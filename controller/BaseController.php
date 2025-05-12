@@ -19,5 +19,5 @@ class route{
         return $page;
     }
 }
-$page = Routes::routes();
+//$page = Routes::routes();
 ?>
