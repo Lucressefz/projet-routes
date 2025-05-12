@@ -1,3 +1,8 @@
+<?php
+include_once __DIR__ ."/controller/BaseController.php";
+?>
+
+
 <!DOCTYPE html>
 <link rel="stylesheet" href="./css/main.css">
 <html lang="en">
